@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425620007294",
+    "project_id": "meow-wallpaper",
+    "storage_bucket": "meow-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425620007294:android:040599f139bd0e32d42b2f",
+        "android_client_info": {
+          "package_name": "com.elizabeu.meowwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425620007294-km81kb5odomig52jc68di7p24bgcqloj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7Ds4ct8IwaAyvii8kcvvej3SGb_6BkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425620007294-km81kb5odomig52jc68di7p24bgcqloj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
